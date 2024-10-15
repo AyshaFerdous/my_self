@@ -1,6 +1,7 @@
 # my_self
 
 A new Flutter project.
+![screenshot](assets/images/screenshot.png)
 
 ## Getting Started
 
